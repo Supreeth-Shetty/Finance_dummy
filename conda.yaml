@@ -1,4 +1,4 @@
-name: F:\Personal_Accountant\env
+name: F:\projects\Finance-Application\env
 channels:
   - defaults
 dependencies:
@@ -27,6 +27,7 @@ dependencies:
     - decorator==5.1.1
     - defusedxml==0.7.1
     - django==3.2.15
+    - dnspython==2.2.1
     - entrypoints==0.4
     - fastjsonschema==2.16.1
     - importlib-metadata==4.12.0
@@ -59,12 +60,14 @@ dependencies:
     - psutil==5.9.2
     - pycparser==2.21
     - pygments==2.13.0
+    - pymongo==3.12.0
     - pyparsing==3.0.9
     - pyrsistent==0.18.1
     - python-dateutil==2.8.2
     - pytz==2022.2.1
     - pywin32==304
     - pywinpty==2.0.7
+    - pyyaml==6.0
     - pyzmq==23.2.1
     - send2trash==1.8.0
     - six==1.16.0
@@ -78,4 +81,4 @@ dependencies:
     - wcwidth==0.2.5
     - webencodings==0.5.1
     - zipp==3.8.1
-prefix: F:\Personal_Accountant\env
+prefix: F:\projects\Finance-Application\env
