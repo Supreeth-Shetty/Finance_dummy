@@ -132,10 +132,10 @@ class Applogs(MongoOperations):
         return "Applogs Class"
 
 
-log = Applogs('logger\logs\projectlogs.log', 'DEBUG')
-log.getlogger(__file__)
+# log = Applogs('logger\logs\projectlogs.log', 'DEBUG')
+# log.getlogger(__file__)
 
-log.debug("debug logged")
-log.info("info logged")
-log.warning("warning logged")
-log.critical("critical logged")
+# log.debug("debug logged")
+# log.info("info logged")
+# log.warning("warning logged")
+# log.critical("critical logged")
