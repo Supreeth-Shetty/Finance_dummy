@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A source utility package for personal accoutant application
+Home-page: https://github.com/BrundaBR/Finance-Application
+Author: BrundaBR
+Author-email: shetty.supreeth95@gmail.com
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Finance Application
+
+Finance application is an all in one finance assisstance for an individual
+
+
