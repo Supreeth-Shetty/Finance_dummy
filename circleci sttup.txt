@@ -1,5 +1,5 @@
-api key : cdd41eef-bda1-4840-a56c-0c78fb8853af
+api key : eb6b9028-711e-499e-a252-8a7dd98b0a67
 docker user name : supreeth95
 passward : Checkpost@2020
-app name : getacab
-docker container name : getacab2022
+app name : personalfinance2022
+docker container name : personalfinance2022
