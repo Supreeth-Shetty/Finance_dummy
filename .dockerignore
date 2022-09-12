@@ -1,0 +1,13 @@
+__pycache__/
+env/
+logger/logs/
+src.egg-info/
+
+# Django stuff
+
+# Editor files
+.vscode/
+.circleci/
+
+# react
+/node_modules
