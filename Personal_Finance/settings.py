@@ -60,7 +60,7 @@ ROOT_URLCONF = "Personal_Finance.urls"
 TEMPLATES = [
     {
         "BACKEND": "django.template.backends.django.DjangoTemplates",
-        "DIRS": [os.path.join(BASE_DIR, 'personal_finance_react/build')],
+        "DIRS": [os.path.join(BASE_DIR, 'Personal_Finance_React/build')],
         "APP_DIRS": True,
         "OPTIONS": {
             "context_processors": [
