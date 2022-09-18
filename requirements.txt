@@ -2,3 +2,4 @@ notebook
 pymongo
 dnspython
 Django
+gunicorn
