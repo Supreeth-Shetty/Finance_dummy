@@ -7,7 +7,7 @@ jobs:
     docker:
       - image: circleci/python:3.6.2-stretch-browsers
         auth:
-          username: mydockerhub-user
+          username: $DOCKERHUB_USER
           password: $DOCKERHUB_PASSWORD  # context / project UI env-var reference
     steps:
       - checkout
@@ -71,4 +71,4 @@ workflows:
           filters:
             branches:
               only:
-                - main
+                - supreeth_new
