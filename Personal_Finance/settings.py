@@ -123,5 +123,5 @@ STATIC_URL = "static/"
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, "personal_finance_react/build/static")
+    os.path.join(BASE_DIR, "Personal_Finance_React/build/static")
 ]
