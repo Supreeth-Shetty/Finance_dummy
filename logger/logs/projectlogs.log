@@ -1,0 +1,21 @@
+2022-09-11 20:49:32.290986::logger/logger.py::DEBUG::debug logged
+2022-09-11 20:49:32.683741::logger/logger.py::INFO::info logged
+2022-09-11 20:49:32.767690::logger/logger.py::WARNING::warning logged
+2022-09-11 20:49:32.807667::logger/logger.py::CRITICAL::critical logged
+2022-09-11 20:50:17.629384::\logger\logger.py::DEBUG::debug logged
+2022-09-11 20:50:18.238508::\logger\logger.py::INFO::info logged
+2022-09-11 20:50:18.320460::\logger\logger.py::WARNING::warning logged
+2022-09-11 20:50:18.350439::\logger\logger.py::CRITICAL::critical logged
+2022-09-11 20:50:28.280689::\User_Authentication\views.py::INFO::Landed on home page!
+2022-09-11 21:09:53.836851::\User_Authentication\views.py::INFO::Landed on home page!
+2022-09-11 21:11:47.381100::\User_Authentication\views.py::INFO::Landed on home page!
+2022-09-11 21:12:43.415140::\User_Authentication\views.py::INFO::Landed on home page!
+2022-09-11 21:15:54.344469::\User_Authentication\views.py::INFO::Landed on home page!
+2022-09-11 21:16:46.403732::\User_Authentication\views.py::INFO::Landed on home page!
+2022-09-11 21:16:55.308739::\User_Authentication\views.py::INFO::Landed on home page!
+2022-09-11 21:17:23.044429::\User_Authentication\views.py::INFO::Landed on home page!
+2022-09-11 21:17:28.541626::\User_Authentication\views.py::INFO::Landed on home page!
+2022-09-11 21:22:06.524465::\User_Authentication\views.py::INFO::Landed on home page!
+2022-09-11 21:22:08.462596::\User_Authentication\views.py::INFO::Landed on home page!
+2022-09-11 22:18:11.985669::\User_Authentication\views.py::INFO::Landed on home page!
+2022-09-18 15:23:16.507442::\User_Authentication\views.py::INFO::Landed on home page!
